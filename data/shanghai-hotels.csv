@@ -1,11 +1,12 @@
 rank,hotel,district,area,trip_com_score,reviews_count,negative_signal,price_usd_low,price_usd_typical,in_budget_30_50,trip_com_url
 1,Jinjiang Metropolo Shanghai Xintiandi (Tianzifang),Huangpu,Xintiandi / Tianzifang,9.6,4058,"no negative reviews in past 1 month",29,40,yes,https://www.trip.com/hotels/shanghai-hotel-detail-640500/jinjiang-metropolo-shanghai-xintiandi-hotel/
 2,Magnotel (Tianzifang Madang Lu Metro Station),Huangpu,Tianzifang,9.4,1515,"low",40,48,yes,https://www.trip.com/hotels/shanghai-hotel-detail-481555/magnotel/
-3,Homeinn Plus (Shanghai Sinan Road Huaihai Middle Road),Xuhui,French Concession,9.5,1533,"no negative reviews in past 4 months",48,55,borderline,https://us.trip.com/hotels/shanghai-hotel-detail-3264089/homeinn-plus-hotel/
-4,Homeinn Plus (Shanghai Bund Nanjing Road Pedestrian Street),Huangpu,The Bund / Nanjing Rd,9.4,986,"low",45,53,borderline,https://www.trip.com/hotels/shanghai-hotel-detail-428122/homeinn-plus-hotel/
-5,HanTing Hotel (Shanghai Jing'an Temple Zhenning Road),Jing'an,Jing'an Temple,9.3,1209,"low",40,48,yes,https://us.trip.com/hotels/shanghai-hotel-detail-118232783/hanting-hotel/
-6,JI Hotel (Shanghai Xuhui Zhaojiabang Road),Xuhui,Xujiahui,9.7,2681,"very low",49,57,borderline,https://us.trip.com/hotels/shanghai-hotel-detail-980154/ji-hotel/
-7,Vienna Hotel (Shanghai Nanjing Road Pedestrian Street),Huangpu,Nanjing Rd / People's Square,9.4,2820,"94% positive (2655/2820)",48,56,borderline,https://www.trip.com/hotels/shanghai-hotel-detail-2147624/
-8,Magnotel Classic Hotel (Shanghai Bund Nanjing Road Pedestrian Street),Huangpu,The Bund / Nanjing Rd,9.4,1896,"low",48,58,borderline,https://www.trip.com/hotels/shanghai-hotel-detail-61266283/magnotel-classic-hotel/
-9,Jinjiang Inn Select (Shanghai Nanjing Road Pedestrian Street),Huangpu,Nanjing Rd,8.6,2609,"moderate (older rooms)",37,59,yes,https://us.trip.com/hotels/shanghai-hotel-detail-668996/jinjiang-inn-select-shanghai-nanjing-road-pedestrian-street/
-10,Jinjiang Inn (Shanghai People's Square East Huaihai Road),Huangpu,People's Square,8.7,2957,"moderate (noise/insulation)",40,50,yes,https://us.trip.com/hotels/shanghai-hotel-detail-924917/jinjiang-inn-shanghai-people-s-square-east-huaihai-road/
+3,Homeinn Plus (Shanghai Lujiazui Mall Road Subway Station),Pudong,Lujiazui,9.4,3163,"low (large sample)",45,55,borderline,https://us.trip.com/hotels/shanghai-hotel-detail-112976684/homeinn-plus-hotel/
+4,Homeinn Plus (Shanghai Sinan Road Huaihai Middle Road),Xuhui,French Concession,9.5,1533,"no negative reviews in past 4 months",48,55,borderline,https://us.trip.com/hotels/shanghai-hotel-detail-3264089/homeinn-plus-hotel/
+5,Homeinn Plus (Shanghai Bund Nanjing Road Pedestrian Street),Huangpu,The Bund / Nanjing Rd,9.4,986,"low",45,53,borderline,https://www.trip.com/hotels/shanghai-hotel-detail-428122/homeinn-plus-hotel/
+6,HanTing Hotel (Shanghai Jing'an Temple Zhenning Road),Jing'an,Jing'an Temple,9.3,1209,"low",40,48,yes,https://us.trip.com/hotels/shanghai-hotel-detail-118232783/hanting-hotel/
+7,JI Hotel (Shanghai Xuhui Zhaojiabang Road),Xuhui,Xujiahui,9.7,2681,"very low",49,57,borderline,https://us.trip.com/hotels/shanghai-hotel-detail-980154/ji-hotel/
+8,Vienna Hotel (Shanghai Nanjing Road Pedestrian Street),Huangpu,Nanjing Rd / People's Square,9.4,2820,"94% positive (2655/2820)",48,56,borderline,https://www.trip.com/hotels/shanghai-hotel-detail-2147624/
+9,Magnotel Classic Hotel (Shanghai Bund Nanjing Road Pedestrian Street),Huangpu,The Bund / Nanjing Rd,9.4,1896,"low",48,58,borderline,https://www.trip.com/hotels/shanghai-hotel-detail-61266283/magnotel-classic-hotel/
+10,Jinjiang Inn Select (Shanghai Nanjing Road Pedestrian Street),Huangpu,Nanjing Rd,8.6,2609,"moderate (older rooms)",37,59,yes,https://us.trip.com/hotels/shanghai-hotel-detail-668996/jinjiang-inn-select-shanghai-nanjing-road-pedestrian-street/
+11,Jinjiang Inn (Shanghai People's Square East Huaihai Road),Huangpu,People's Square,8.7,2957,"moderate (noise/insulation)",40,50,yes,https://us.trip.com/hotels/shanghai-hotel-detail-924917/jinjiang-inn-shanghai-people-s-square-east-huaihai-road/

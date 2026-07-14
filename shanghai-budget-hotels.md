@@ -38,14 +38,15 @@ KAYAK). Как **прокси для «мало плохих отзывов»** 
 |---|-------|-------|:--------:|:-------:|---------|-----------|:---------:|
 | 1 | **Jinjiang Metropolo Xintiandi (Tianzifang)** ★ *ваш* | Huangpu / Xintiandi | **9.6** | 4058 | нет негатива за месяц | $29–40 | ✅ |
 | 2 | **Magnotel (Tianzifang, Madang Lu Metro)** | Huangpu / Tianzifang | 9.4 | 1515 | низкий | $40–48 | ✅ |
-| 3 | **Homeinn Plus (Sinan Rd, Французский квартал)** | Xuhui | 9.5 | 1533 | нет негатива за 4 мес | $48–55 | 🟡 |
-| 4 | **Homeinn Plus (Bund, Nanjing Rd Pedestrian St)** | Huangpu / Бунд | 9.4 | 986 | низкий | $45–53 | 🟡 |
-| 5 | **HanTing (Jing'an Temple, Zhenning Rd)** | Jing'an | 9.3 | 1209 | низкий | $40–48 | ✅ |
-| 6 | **JI Hotel (Xuhui, Zhaojiabang Rd)** | Xuhui / Xujiahui | **9.7** | 2681 | очень низкий | $49–57 | 🟡 |
-| 7 | **Vienna Hotel (Nanjing Rd Pedestrian St)** | Huangpu | 9.4 | 2820 | 94% позитива | $48–56 | 🟡 |
-| 8 | **Magnotel Classic (Bund, Nanjing Rd)** | Huangpu / Бунд | 9.4 | 1896 | низкий | $48–58 | 🟡 |
-| 9 | **Jinjiang Inn Select (Nanjing Rd)** | Huangpu | 8.6 | 2609 | умеренный (старый фонд) | $37–59 | ✅ |
-| 10 | **Jinjiang Inn (People's Square, E Huaihai Rd)** | Huangpu | 8.7 | 2957 | умеренный (шумоизоляция) | $40–50 | ✅ |
+| 3 | **Homeinn Plus (Lujiazui, Mall Road Metro)** | Pudong / Lujiazui | 9.4 | 3163 | низкий (большая выборка) | $45–55 | 🟡 |
+| 4 | **Homeinn Plus (Sinan Rd, Французский квартал)** | Xuhui | 9.5 | 1533 | нет негатива за 4 мес | $48–55 | 🟡 |
+| 5 | **Homeinn Plus (Bund, Nanjing Rd Pedestrian St)** | Huangpu / Бунд | 9.4 | 986 | низкий | $45–53 | 🟡 |
+| 6 | **HanTing (Jing'an Temple, Zhenning Rd)** | Jing'an | 9.3 | 1209 | низкий | $40–48 | ✅ |
+| 7 | **JI Hotel (Xuhui, Zhaojiabang Rd)** | Xuhui / Xujiahui | **9.7** | 2681 | очень низкий | $49–57 | 🟡 |
+| 8 | **Vienna Hotel (Nanjing Rd Pedestrian St)** | Huangpu | 9.4 | 2820 | 94% позитива | $48–56 | 🟡 |
+| 9 | **Magnotel Classic (Bund, Nanjing Rd)** | Huangpu / Бунд | 9.4 | 1896 | низкий | $48–58 | 🟡 |
+| 10 | **Jinjiang Inn Select (Nanjing Rd)** | Huangpu | 8.6 | 2609 | умеренный (старый фонд) | $37–59 | ✅ |
+| 11 | **Jinjiang Inn (People's Square, E Huaihai Rd)** | Huangpu | 8.7 | 2957 | умеренный (шумоизоляция) | $40–50 | ✅ |
 
 ✅ — уверенно попадает в $30–50 · 🟡 — верх бюджета, в пик может уйти выше $50.
 
@@ -59,7 +60,11 @@ KAYAK). Как **прокси для «мало плохих отзывов»** 
 - **#6 JI Hotel (Zhaojiabang)** — **самый высокий балл (9.7)** и большой объём
   отзывов, но цена по верху бюджета. Если готовы к ~$50–55 — лучший по «чистоте»
   отзывов.
-- **#3 Homeinn Plus (Sinan Rd)** — в самом Французском квартале, «нет негатива за
+- **#3 Homeinn Plus (Lujiazui)** — 9.4 при огромной выборке 3163 отзыва
+  (надёжнее многих в списке). ⚠️ Локация — **Пудун, Lujiazui** (небоскрёбы,
+  Oriental Pearl), по **другую сторону реки** от остальных вариантов в Пуси. Виды
+  и современный район — плюс; «старого Шанхая» и пешей атмосферы Tianzifang нет.
+- **#4 Homeinn Plus (Sinan Rd)** — в самом Французском квартале, «нет негатива за
   4 месяца». Отличная тихая локация, цена у верхней границы.
 
 ---
